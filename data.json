@@ -58,6 +58,28 @@
             "en": "Green",
             "cz": "Zelene"
         }
+    },
+    "commands": {
+        "basic": {
+            "es": "Comandos basicos",
+            "en": "General commands",
+            "cz": "Základní komanda"
+        },
+        "spec": {
+            "es": "Comando para espectadores",
+            "en": "Spectator commands",
+            "cz": "Příkaz pro diváky"
+        },
+        "aux": {
+            "es": "Comandos auxiliares",
+            "en": "Auxiliary commands",
+            "cz": "Pomocné příkazy"
+        },
+        "statis": {
+            "es": "Comandos estadisticos",
+            "en": "Statistical commands",
+            "cz": "Statistické příkazy"
+        }
     }
 }
 
