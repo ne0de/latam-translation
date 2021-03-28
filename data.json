@@ -3,47 +3,47 @@
         "existAccount": {
             "es": "Esta cuenta se encuentra registrada. Escribe la contraseña para poder entrar:",
             "en": "This account is registered. Enter the password to join:",
-            "cz": "modifique esto de test"
+            "cz": "Tento účet je již zaregistrován. zadejte heslo:"
         },
         "wrongPassword":{
             "es": "La contraseña que escribiste es incorrecta, escribela devuelta.",
-            "en": "",
-            "cz": ""
+            "en": "Incorrect password, enter correct password again",
+            "cz": "Zadané heslo je nesprávné, vraťte ho zpět"
         },
         "success": {
             "es": "Datos cargados correctamente, bienvenido devuelta.",
-            "en": "",
-            "cz": ""
+            "en": "Stats loaded succesfully, welcome back",
+            "cz": "Správně načtené statistiky, ahoj zpět"
         }
     },
     "register": {
         "welcomeMessage": {
             "es": "Ingresa una contraseña para registrarte.",
-            "en": "",
-            "cz": ""
+            "en": "Enter a password to register",
+            "cz": "Zadání hesla pro přihlášení"
         },
         "wrongPassword": {
             "es": "La contraseña tiene que tener más de 5 letras!\nEscribe devuelta otra contraseña:",
-            "en": "",
-            "cz": ""  
+            "en": "The password entered must have more than 5 characters!\nTry with another password:",
+            "cz": "Heslo musí být delší než 5 znaků!\nVyzkoušejte jiné heslo:"  
         },
         "success": {
             "es": "Te registraste correctamente, bienvenido al servidor.",
-            "en": "",
-            "cz": "" 
+            "en": "You have been registered succesfully, welcome to the server.",
+            "cz": "Úspěšně jste se zaregistrovali, vítejte na serveru." 
         }
     },
     "world": {
         "chosenWorld": {
             "es": "Elije el mundo virtual",
-            "en": "",
-            "cz": ""
+            "en": "Choose any virtual world",
+            "cz": "Vyberte si virtuální svět"
         },
         "info": {
             "private": {
                 "es": "Privado con %d jugadores totales",
-                "en": "",
-                "cz": ""
+                "en": "Private with %d total players",
+                "cz": "Soukromé %d celkovými hráči"
             }
         }
     },
@@ -51,12 +51,12 @@
         "orange": {
             "es": "Naranja",
             "en": "Orange",
-            "cz": ""
+            "cz": "Oranžová"
         },
         "green": {
             "es": "Verde",
             "en": "Green",
-            "cz": ""
+            "cz": "Zelene"
         }
     }
 }
