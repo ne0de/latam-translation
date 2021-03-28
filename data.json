@@ -1,14 +1,63 @@
-[
-    {
-        "login": {
+{
+    "login": {
+        "existAccount": {
             "es": "Esta cuenta se encuentra registrada. Escribe la contraseña para poder entrar:",
             "en": "This account is registered. Enter the password to join:",
             "cz": "modifique esto de test"
         },
-        "register": {
-            "es": "ngresa una contraseña para registrarte",
+        "wrongPassword":{
+            "es": "La contraseña que escribiste es incorrecta, escribela devuelta.",
+            "en": "",
+            "cz": ""
+        },
+        "success": {
+            "es": "Datos cargados correctamente, bienvenido devuelta.",
             "en": "",
             "cz": ""
         }
+    },
+    "register": {
+        "welcomeMessage": {
+            "es": "Ingresa una contraseña para registrarte.",
+            "en": "",
+            "cz": ""
+        },
+        "wrongPassword": {
+            "es": "La contraseña tiene que tener más de 5 letras!\nEscribe devuelta otra contraseña:",
+            "en": "",
+            "cz": ""  
+        },
+        "success": {
+            "es": "Te registraste correctamente, bienvenido al servidor.",
+            "en": "",
+            "cz": "" 
+        }
+    },
+    "world": {
+        "chosenWorld": {
+            "es": "Elije el mundo virtual",
+            "en": "",
+            "cz": ""
+        },
+        "info": {
+            "private": {
+                "es": "Privado con %d jugadores totales",
+                "en": "",
+                "cz": ""
+            }
+        }
+    },
+    "team": {
+        "orange": {
+            "es": "Naranja",
+            "en": "Orange",
+            "cz": ""
+        },
+        "green": {
+            "es": "Verde",
+            "en": "Green",
+            "cz": ""
+        }
     }
-]
+}
+
