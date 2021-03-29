@@ -80,6 +80,11 @@
             "en": "Statistical commands",
             "cz": "Statistické příkazy"
         }
+    },
+    "cmd-list": {
+        "es": "", 
+        "en": "", 
+        "cz": ""
     }
 }
 
