@@ -82,9 +82,9 @@
         }
     },
     "cmd-list": {
-        "es": "", 
-        "en": "", 
-        "cz": ""
+        "es": "cuenta, mundo, equipo, cambiarnombre, duelo, camara, fantasma, mostrarjugador, ocultarjugador, conexion", 
+        "en": "account, world, team, changename, duel, camera, ghostmode, showplayer, hideplayer, connection", 
+        "cz": "Učet, svět, tým, změna názvu, duel, kamera, duch, zobrazit hráče, skrýt hráče, připojení"
     }
 }
 
